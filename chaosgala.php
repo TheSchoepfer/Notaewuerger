@@ -26,7 +26,7 @@ session_start();
         <content id="chaoscontent">
             <div class="inhalt">
 				<h2 class="titelblack">Chaos-Gala und 30 Jahre Notäwürger</h2>
-                <img src="chaos-gala.jpg" alt="Selfhtml" height="80%" width="80%">
+                <img src="images/chaos-gala.jpg" alt="Selfhtml" height="80%" width="80%">
                 <p class="text">Notäwürger Seewen Präsentiert die legendäre Chaos Gala am 16. Januar 2016
 					Sporthalle Rubiswil<br />
 					Rubiswilstrasse, 6438 Ibach / SZ<br /><br />

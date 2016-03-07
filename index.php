@@ -85,7 +85,7 @@ function Loginseite(){
         
         <content>
 		<div class="inhalt">
-		<img id="homebild" src="logo.jpg" alt="Selfhtml">
+		<img id="homebild" src="images/logo.jpg" alt="Selfhtml">
 		<h2 class="titelblack">Willkommen</h2>
 		<p class="text">Herzlich Willkommen auf unserer Website. Wir feiern dieses Jahr unser 30. Jubiläum.</br> Wenn du fragen hast, schreibe uns auf </br> Facebook oder über die Kontakseite.</p>
 		</div>

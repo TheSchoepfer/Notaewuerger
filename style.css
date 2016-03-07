@@ -97,7 +97,7 @@ body{
     left: 30%;
     height: 100%;
     width: 10%;
-    background-image: url("circle2.png");
+    background-image: url("images/circle2.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     z-index: 100;
@@ -150,38 +150,38 @@ content{
 }
 
 .homesymbol{
-    background-image: url("home.png");
+    background-image: url("images/home.png");
 }
 
 .wuergersymbol{
-    background-image: url("Notaewuerger.png");
+    background-image: url("images/Notaewuerger.png");
 }
 
 .mitgliedsymbol{
-    background-image: url("adduser.svg.png");
+    background-image: url("images/adduser.svg.png");
 }
 
 .toursymbol{
-	background-image: url("tour.png");
+	background-image: url("images/tour.png");
 }
 
 .chaossymbol{
-	background-image: url("chaos.png");
+	background-image: url("images/chaos.png");
 }
 
 .linkssymbol{
-	background-image: url("link.png");
+	background-image: url("images/link.png");
 }
 .soundsymbol{
-    background-image: url("Sound.png");
+    background-image: url("images/Sound.png");
 }
 
 .fotossymbol{
-    background-image: url("Fotos.jpg");
+    background-image: url("images/Fotos.jpg");
 }
 
 .kontaktsymbol{
-	background-image: url("contact.png");
+	background-image: url("images/contact.png");
 }
 #wuergercontent{
     background-color: rgb(229, 125, 4);

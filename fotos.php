@@ -84,7 +84,7 @@ session_start();
 									$fotogross = $row['fotogross'];
 								
 								?>
-									<li><a href="#"><img src="<?php echo"$foto"; ?>" alt="image01" data-large="<?php echo"$fotogross"; ?>"/></a></li>
+									<li><a href="#"><img src="images/gallery/<?php echo"$foto"; ?>" alt="image01" data-large="<?php echo"$fotogross"; ?>"/></a></li>
 									<?php
 									} 
 									?>

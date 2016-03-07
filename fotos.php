@@ -8,10 +8,10 @@ session_start();
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="style.css">
-        <script language="javascript" type="text/javascript" src="script.js"></script>
+        <link rel="stylesheet" href="css/style.css">
+        <script language="javascript" type="text/javascript" src="js/script.js"></script>
         <title>Not&auml;w&uuml;rger</title>
-				<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
         <meta name="description" content="Responsive Image Gallery with jQuery" />
         <meta name="keywords" content="jquery, carousel, image gallery, slider, responsive, flexible, fluid, resize, css3" />

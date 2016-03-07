@@ -49,7 +49,7 @@ session_start();
                         $output = utf8_encode($output);
                         echo "
                         <div class='bilder'>
-                        <img id='Bilder' src='$bild' />
+                        <img id='Bilder' src='images/$bild' />
                             <div class=\"wuergerinfo\">
                                 $output<br /><br />
                             </div>

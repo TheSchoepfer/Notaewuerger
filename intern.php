@@ -35,11 +35,11 @@ session_start();
         <content id="soundcontent">
             <div class="inhalt">
 			<h1 class="titelblack">Mitgliederliste</h1>
-			<p class="text"><a href="PDF/Mitgliederliste.pdf"  class="internlink">Mitgliederliste</a></p><br /><br />
+			<p class="text"><a href="pdf/Mitgliederliste.pdf"  class="internlink">Mitgliederliste</a></p><br /><br />
 			<h1 class="titelblack">Probeplan</h1>
-			<p class="text"><a href="PDF/Probeplan.pdf"  class="internlink">Probeplan</a></p><br />
+			<p class="text"><a href="pdf/Probeplan.pdf"  class="internlink">Probeplan</a></p><br />
 			<h1 class="titelblack">Tourplan</h1>
-			<p class="text"><a href="PDF/Tourplan.pdf"  class="internlink">Tourplan</a></p><br />
+			<p class="text"><a href="pdf/Tourplan.pdf"  class="internlink">Tourplan</a></p><br />
 			<table class="special">
         </div>                
         </table>
